@@ -1,0 +1,22 @@
+header {
+    background:#FFCC99;
+    box-shadow: 2px 5px 10px #ccc;
+}
+main {
+    background:#E6F2FF;
+    margin:20px;
+    display:flex;
+}
+aside {
+    background:#B3D9FF;
+    border:1px solid #ccc;
+}
+footer {
+    background:#99CC99;
+    border:1px solid #ccc;
+    box-shadow: 2px 5px 10px #ccc;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
