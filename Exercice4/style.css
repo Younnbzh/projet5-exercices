@@ -1,20 +1,24 @@
 header {
     background:#FFCC99;
-    box-shadow: 2px 5px 10px #ccc;
+    box-shadow: 2px 5px 10px  rgba(204,204,204,0.5);
 }
 main {
     background:#E6F2FF;
-    margin:20px;
     display:flex;
+}
+section {
+    margin:20px;
+    flex:3 1 0%
 }
 aside {
     background:#B3D9FF;
     border:1px solid #ccc;
+    flex:1 1 0%;
 }
 footer {
     background:#99CC99;
     border:1px solid #ccc;
-    box-shadow: 2px 5px 10px #ccc;
+    box-shadow: 2px 5px 10px rgba(204,204,204,0.5);
 }
 h1 {
     font-weight: bold;
